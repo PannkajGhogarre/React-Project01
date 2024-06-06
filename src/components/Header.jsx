@@ -26,7 +26,7 @@ const Header = () => {
                 </ul>
 
                 <div className="buy">
-                    <h4>Buy Now</h4>
+                    <h4>BUY Now</h4>
                 </div>
             </header>
         </>
